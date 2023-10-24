@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ch4:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="620f7ba0-a8ef-4e93-99b0-a8f704c07655" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.sql/java/sql/Timestamp.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SN6MxfCoG6SMCLyCtkNStsT79b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "last_directory_selection": "C:/Users/kkotj/IdeaProjects/ch4/src/main/java/com/fastcampus/ch4",
+    "last_opened_file_path": "C:/Users/kkotj/IdeaProjects/ch4",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "spring.configuration.checksum": "3ee3610c5d928069e7658a07faacb839",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fastcampus.ch4.domain" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.fastcampus.ch4.service" />
+      <recent name="com.fastcampus.ch4.dao" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.fastcampus.ch4.domain" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fastcampus.ch4.domain" />
+      <recent name="com.fastcampus.ch4.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.74">
+    <configuration name="BoardDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fastcampus.ch4.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fastcampus.ch4.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.fastcampus.ch4.dao.BoardDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardDaoImplTest,countTest and 5 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch4" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.fastcampus.ch4.dao.BoardDaoImplTest,countTest" />
+        <pattern testClass="com.fastcampus.ch4.dao.BoardDaoImplTest,deleteAllTest" />
+        <pattern testClass="com.fastcampus.ch4.dao.BoardDaoImplTest,deleteTest" />
+        <pattern testClass="com.fastcampus.ch4.dao.BoardDaoImplTest,insertTest" />
+        <pattern testClass="com.fastcampus.ch4.dao.BoardDaoImplTest,selectAllTest" />
+        <pattern testClass="com.fastcampus.ch4.dao.BoardDaoImplTest,selectTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardDaoImplTest.insertTestData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fastcampus.ch4.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fastcampus.ch4.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.fastcampus.ch4.dao.BoardDaoImplTest" />
+      <option name="METHOD_NAME" value="insertTestData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardDaoImplTest.selectPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fastcampus.ch4.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fastcampus.ch4.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.fastcampus.ch4.dao.BoardDaoImplTest" />
+      <option name="METHOD_NAME" value="selectPageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageHandlerTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fastcampus.ch4.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fastcampus.ch4.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.fastcampus.ch4.domain.PageHandlerTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.74" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.74" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch4:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ch4" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="9840df56-460a-429b-9dbe-40e9e5a2b503" />
+        <option name="HTTP_PORT" value="80" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60952" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ch4:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BoardDaoImplTest" />
+      <item itemvalue="JUnit.BoardDaoImplTest,countTest and 5 more" />
+      <item itemvalue="JUnit.BoardDaoImplTest.insertTestData" />
+      <item itemvalue="JUnit.BoardDaoImplTest.selectPageTest" />
+      <item itemvalue="JUnit.PageHandlerTest.test2" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.74" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BoardDaoImplTest.insertTestData" />
+        <item itemvalue="JUnit.BoardDaoImplTest,countTest and 5 more" />
+        <item itemvalue="JUnit.BoardDaoImplTest.selectPageTest" />
+        <item itemvalue="JUnit.BoardDaoImplTest" />
+        <item itemvalue="JUnit.PageHandlerTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="620f7ba0-a8ef-4e93-99b0-a8f704c07655" name="Changes" comment="" />
+      <created>1688974648816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688974648816</updated>
+      <workItem from="1688974650069" duration="1078000" />
+      <workItem from="1689139817216" duration="11411000" />
+      <workItem from="1689161644412" duration="3480000" />
+      <workItem from="1689166100365" duration="5146000" />
+      <workItem from="1689225958896" duration="5927000" />
+      <workItem from="1689320701820" duration="3289000" />
+      <workItem from="1689659175789" duration="1041000" />
+      <workItem from="1689741155530" duration="3567000" />
+      <workItem from="1689833225859" duration="955000" />
+      <workItem from="1690175041714" duration="14818000" />
+      <workItem from="1690197394651" duration="2512000" />
+      <workItem from="1690199944455" duration="465000" />
+      <workItem from="1690200432728" duration="2000" />
+      <workItem from="1690264017642" duration="7898000" />
+      <workItem from="1690275195604" duration="507000" />
+      <workItem from="1690282599310" duration="11053000" />
+      <workItem from="1690371838622" duration="4861000" />
+      <workItem from="1690439026373" duration="3004000" />
+      <workItem from="1690442931974" duration="7447000" />
+      <workItem from="1690606313427" duration="15736000" />
+      <workItem from="1690697500102" duration="8421000" />
+      <workItem from="1690775293329" duration="15497000" />
+      <workItem from="1690802681050" duration="5858000" />
+      <workItem from="1690868420045" duration="11326000" />
+      <workItem from="1690889336240" duration="6929000" />
+      <workItem from="1690952629610" duration="6636000" />
+      <workItem from="1690984786968" duration="2216000" />
+      <workItem from="1691054076819" duration="1658000" />
+      <workItem from="1691067955289" duration="512000" />
+      <workItem from="1691122941276" duration="8494000" />
+      <workItem from="1691469563754" duration="605000" />
+      <workItem from="1692688367107" duration="7546000" />
+      <workItem from="1692772895680" duration="8193000" />
+      <workItem from="1692792952938" duration="4606000" />
+      <workItem from="1693202345773" duration="13055000" />
+      <workItem from="1693239365709" duration="1524000" />
+      <workItem from="1693293356621" duration="7882000" />
+      <workItem from="1693390729330" duration="6970000" />
+      <workItem from="1693573709316" duration="5761000" />
+      <workItem from="1693809485602" duration="4013000" />
+      <workItem from="1693983853785" duration="3702000" />
+      <workItem from="1693999437956" duration="3006000" />
+      <workItem from="1695023785909" duration="707000" />
+      <workItem from="1695124029261" duration="12701000" />
+      <workItem from="1695189989618" duration="12726000" />
+      <workItem from="1695273459917" duration="7408000" />
+      <workItem from="1695365133653" duration="7176000" />
+      <workItem from="1695531838626" duration="4114000" />
+      <workItem from="1695731050162" duration="1692000" />
+      <workItem from="1695789628419" duration="5550000" />
+      <workItem from="1695797873146" duration="5145000" />
+      <workItem from="1695807409163" duration="505000" />
+      <workItem from="1695894048854" duration="497000" />
+      <workItem from="1695920228397" duration="855000" />
+      <workItem from="1696065386183" duration="3663000" />
+      <workItem from="1696088434845" duration="4440000" />
+      <workItem from="1696382361348" duration="6420000" />
+      <workItem from="1696416618342" duration="2999000" />
+      <workItem from="1696478907225" duration="3661000" />
+      <workItem from="1696491327568" duration="466000" />
+      <workItem from="1696572121943" duration="2201000" />
+      <workItem from="1696574786135" duration="629000" />
+      <workItem from="1696835894835" duration="344000" />
+      <workItem from="1696911439523" duration="7151000" />
+      <workItem from="1696999959955" duration="595000" />
+      <workItem from="1697108294156" duration="277000" />
+      <workItem from="1697174087384" duration="2158000" />
+      <workItem from="1697431102190" duration="597000" />
+      <workItem from="1697434872693" duration="1223000" />
+      <workItem from="1697443224423" duration="2008000" />
+      <workItem from="1697608424502" duration="2536000" />
+      <workItem from="1697688162642" duration="596000" />
+      <workItem from="1697777730231" duration="1197000" />
+      <workItem from="1698036037004" duration="596000" />
+      <workItem from="1698122709754" duration="1176000" />
+      <workItem from="1698124270133" duration="8729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/fastcampus/ch4/dao/BoardDaoImplTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/boardList.jsp</url>
+          <line>219</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
